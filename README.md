@@ -26,6 +26,11 @@ In addition to the previous project
 6. The vertex shader passed the texture coordinates for each vertex to the fragment shader.
 7. The fragment shader used the texture coordinates and the sampler to sample the texture at the interpolated texture coordinates
 
+
+
+https://user-images.githubusercontent.com/16291248/211368187-0fd8f3f6-a295-4aef-9112-661042ca0042.mp4
+
+
 How to use your implementation
 
 1. Compile the texture.cpp file, cyCodeBase must be present in the include path
